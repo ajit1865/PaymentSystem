@@ -1,3 +1,4 @@
+![Screenshot from 2023-03-04 09-55-40](https://user-images.githubusercontent.com/125342543/229130674-c73bb08d-1703-49ee-8e32-3180f133ea68.png)
 # Payment System for E-commerce Website
 This project is a payment system for an e-commerce website that allows users to make payments using different payment methods such as credit cards, PayPal, and bank transfers.
 
